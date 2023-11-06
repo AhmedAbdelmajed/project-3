@@ -1,0 +1,26 @@
+Enter new member
+show members
+Terms
+
+Members of Team
+
+Mohamed mohamed@gmail.com
+
+Te
+1
+1
+
+Soha soha@gmail.com
+Mona mona@gmailcom 1
+
+Ali ali@gmail.com 2
+
+terms
+
+1. The member must be over 18 years old
+
+2. The member should have a background in programming
+3. The member should bring his own laptop
+
+4. The member should not be late in solving his tasks
+
